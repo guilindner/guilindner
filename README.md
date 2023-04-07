@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=guilindner&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=guilindner&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=guilindner&show_icons=true&theme=dark" height = 200>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=guilindner&theme=dark&hide_border=false" height = 200>
 </p>
